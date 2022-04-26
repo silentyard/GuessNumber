@@ -9449,11 +9449,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4927475971378546896, guid: d67096d4c860eab4fba84730dacd16a5, type: 3}
       propertyPath: goalPoints
-      value: 1
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4927475971378546896, guid: d67096d4c860eab4fba84730dacd16a5, type: 3}
       propertyPath: initialCard
-      value: 1
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5683294708351225165, guid: d67096d4c860eab4fba84730dacd16a5, type: 3}
       propertyPath: m_RootOrder
